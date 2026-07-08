@@ -1,0 +1,48 @@
+.body{
+   background-color: black
+}
+
+.div{
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.div {
+    width: 350px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    background-color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.div {
+    font-size: 18px;
+    margin-bottom: 15px;
+    color: #000000;
+}
+
+.div{
+    width: 90%;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+.div {
+    width: 95%;
+    padding: 12px;
+    background-color: white;
+    color: #000000;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.div {
+    background-color: white;
+}
